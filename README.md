@@ -1,2 +1,2 @@
-# config-microservies
+# config-microservices
 Microsercvices configuration
